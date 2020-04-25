@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">CoordinateLayoutDemo</string>
+    <string name="layout_observer">观察者</string>
+    <string name="layout_observable">被观察者</string>
+    <string name="layout_combine">CoordinateLayout与AppBarLayout交互</string>
+    <string name="layout_combine2">CoordinateLayout与可折叠的ToolBar交互</string>
+
+
 </resources>
